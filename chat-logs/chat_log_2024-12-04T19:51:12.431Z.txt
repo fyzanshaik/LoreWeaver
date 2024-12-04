@@ -1,0 +1,12 @@
+user: Context Information:
+            lorem ADKq_NakbZe_YcarsXKRLaICNfi88uKn7bvA2ZhWWds5s8idw00nUXSCp9M75IL2Zc9Y09vmSxEDO3Kv5EJUlGY9C4S4WYH8mMHfQ4qBQ1ZIlJuA5jStDSDX5sfFAw
+lorem ADKq_NakbZe_YcarsXKRLaICNfi88uKn7bvA2ZhWWds5s8idw00nUXSCp9M75IL2Zc9Y09vmSxEDO3Kv5EJUlGY9C4S4WYH8mMHfQ4qBQ1ZIlJuA5jStDSDX5sfFAw
+            
+            Instructions:
+            1. Use this context to answer questions
+            2. If a question can't be answered using the context, say so
+            3. You can refer to other relevant knowledge when appropriate
+            
+            Please confirm you've received this context by summarizing its main points.
+
+assistant: The provided context consists of two identical lines of text: "lorem ADKq_NakbZe_YcarsXKRLaICNfi88uKn7bvA2ZhWWds5s8idw00nUXSCp9M75IL2Zc9Y09vmSxEDO3Kv5EJUlGY9C4S4WYH8mMHfQ4qBQ1ZIlJuA5jStDSDX5sfFAw".  The main point is the repetition of this seemingly random alphanumeric string.  There is no discernible meaning or pattern within the string itself.
