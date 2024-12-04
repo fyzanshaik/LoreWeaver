@@ -1,9 +1,11 @@
 require('dotenv').config();
 const { logger, createDirectory } = require('./source/utils');
+const chalk = require('chalk');
 const GeminiChatInterface = require('./source/gemini-chat');
 
 async function main() {
 	try {
+		console.log(chalk.cyan.bold('Welcome to LoreWeaver 🧠✨'));
 		const apiKey = process.env.GEMINI_API_KEY;
 		const chatInterface = new GeminiChatInterface(apiKey);
 		createDirectory('./chat-logs');

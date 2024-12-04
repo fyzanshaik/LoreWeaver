@@ -1,4 +1,4 @@
-# Gemini Context Chat 🤖
+# LoreWeaver🧠✨ a Gemini Context Chat 🤖
 
 An interactive terminal-based chat interface for Google's Gemini AI that allows you to have context-aware conversations. Load your own dataset and chat with Gemini about it!
 
